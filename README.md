@@ -1,9 +1,4 @@
-# Hi I am zhaoweilong
- <div >
-        <div style="float:right; clear: both;" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zhaoweilong007&hide=contribs,prs&show_icons=true&theme=solarized-dark" >
-        </div>
-    </div>
+![zhaoweilong007 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=zhaoweilong007&hide=contribs,prs&show_icons=true&theme=solarized-dark)
     
 ## Hi there 👋
 
