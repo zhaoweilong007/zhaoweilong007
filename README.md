@@ -9,6 +9,5 @@
 - 🌱 不断学习成长中...
 - 👯 邮箱：zhaoweilong176@gmail.com
 - 💬 个人博客：[JavaLearning](https://zhaoweilong007.github.io/Java-learning/#/)
-- 📫 GitHub: [zhaoweilong007](https://github.com/zhaoweilong007)
 - 😄 性格：积极乐观，勤恳务实
 - ⚡ 爱好：弹吉他、音乐、电影、游戏
