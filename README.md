@@ -5,8 +5,8 @@
 我是赵伟龙，<img src="https://img.shields.io/badge/Java-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91-orange">，现居广东深圳
 
 
-- 🔭 Java开发工作经验3年
-- 🌱 不断学习成长中...
+- 🔭 Java后端开发攻城狮
+- 🌱 技术栈：Spring、SpringCloudAlibab、Mysql、Redis
 - 👯 邮箱：zhaoweilong176@gmail.com
 - 💬 个人博客：[JavaLearning](https://zhaoweilong007.github.io/Java-learning/#/)
 - 😄 性格：积极乐观，勤恳务实
