@@ -2,7 +2,7 @@
     
 ## Hi there 👋
 
-我是赵伟龙，<img src="https://img.shields.io/badge/Java-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91-orange">，现居广东深圳
+我是赵伟龙，<img src="https://img.shields.io/badge/Java-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91-orange">
 
 
 - 🔭 Java后端开发攻城狮
